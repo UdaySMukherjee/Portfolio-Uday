@@ -24,7 +24,7 @@ const testimonialSlider = [
   },
   {
     image: '/iedc.png',
-    name: 'nnovation and Entrepreneurship Development Cell',
+    name: 'Innovation and Entrepreneurship Development Cell',
     position: 'Inventory Team Lead & Robotics Domain Lead',
     message: 'Did projects on IoT, and Drones',
   },
